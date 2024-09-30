@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bsternhet.github.io/sitemap.html.gz
+Sitemap: https://bsternhet.github.io/app/sitemap.html.gz
+Sitemap: https://bsternhet.github.io/assets/sitemap.html.gz
+Sitemap: https://bsternhet.github.io/css/sitemap.html.gz
+Sitemap: https://bsternhet.github.io/data/sitemap.html.gz
+Sitemap: https://bsternhet.github.io/includes/sitemap.html.gz
+Sitemap: https://bsternhet.github.io/item/sitemap.html.gz
+Sitemap: https://bsternhet.github.io/src/sitemap.html.gz
